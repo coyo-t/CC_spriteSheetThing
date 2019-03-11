@@ -9,6 +9,6 @@ notes:
 
 please report any bugs found to my email
 
-Liscence is CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/
+Liscence is MIT
 
 github of this project: https://github.com/ConstaChugga/CC_spriteSheetThing
