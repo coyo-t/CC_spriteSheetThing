@@ -1,0 +1,45 @@
+{
+	"nameTable": [
+		["perfectlyGenericObject", "minecraftStick", "genericPickaxe", null, "something"],
+		["overwatch", "revise", "registry", "grist"],
+		[null, "alchemize", "move", "place"],
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		null,
+		["Cat", "13"]
+	],
+	
+	"truthMask": {
+		"true": "#",
+		"false": "-",
+		"table": [
+			"#####-----------",
+			"####------------",
+			"-###------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"----------------",
+			"##--------------"
+		]
+		
+	}
+	
+}

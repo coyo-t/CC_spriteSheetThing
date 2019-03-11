@@ -1,0 +1,62 @@
+{
+	"lang": "en",
+	
+	"settings": {
+		"showHelp": true,
+		"textFore": [255, 255, 0],
+		"textShad": [0, 0, 0],
+		"textShadDist": [-2, 2]
+		
+	},
+	
+	"paths": {
+		"itemSheet": "inc_img_itemSheet.png",
+		"itemFrame": "inc_img_itemFrame.png",
+		"itemEmpty": "inc_img_empty.png"
+	},
+	
+	"padding": {
+		"betweenFrame": [0, 0, 0, 0],
+		"insideFrame": [4, 4, 4, 4]
+		
+	},
+	
+	"bgColour": [255, 0, 255, 255],
+	"transparentFrameBg": false,
+	
+	"item": {
+		"width": 24,
+		"height": 24
+		
+	},
+	
+	"frame": {
+		"width": 32,
+		"height": 32
+		
+	},
+
+	"exportSettings": {
+		"common": {
+			"subfolder": "",
+			"outName": "compiledSheet_blah_####",
+			"trueFalseMask": "rules.json",
+			"useTrueFalseMask": true
+		},
+		
+		"numbered": {
+			"subfolder": "numberedImages/",
+			"useTrueFalseMask": true
+			
+		},
+		
+		"named": {
+			"subfolder": "namedImages/",
+			"nameTable": "rules.json",
+			"useTrueFalseMask": true
+			
+		}
+		
+	}
+	
+}

@@ -1,0 +1,5 @@
+{
+	"helpText": "f1: Show/hide hotkeys\nf2: Export to numbered frames\nf3: Export to image\nf4: Export named according to nameTable\nf5: Reload JSON settings\nNote: Output is saved to Appdata/local/SG_convertItemSheet!\n",
+	"titleText": "Texture Page thing"
+	
+}
