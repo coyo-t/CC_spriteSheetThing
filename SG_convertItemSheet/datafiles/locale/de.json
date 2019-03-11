@@ -1,5 +1,5 @@
 {
-    "helptext": "F1: Zeige/Verstecke Hotkeys\nF2: Exportiere als Einzelbilder\nF3: Exportiere als ein Bild\nF4: Exportiere Bilder mit den Namen in der nametable \nF5 Lade JSON Einstellungen erneut \nNote: Der Output wird in Appdata/local/SG_convertItemSheet gespeichert!\n",
+    "helptext": "F1: Zeige/Verstecke Hotkeys\nF2: Exportiere als nummerierte Einzelbilder\nF3: Exportiere als ein Bild\nF4: Exportiere Bilder mit den Namen in der Namentabelle \nF5 Lade JSON Einstellungen erneut \nNote: Der Output wird in Appdata/local/SG_convertItemSheet gespeichert!\n",
     "titleText": "Texturenseitending"
     
-} 
+}
